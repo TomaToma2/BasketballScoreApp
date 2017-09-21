@@ -1,0 +1,5 @@
+<application>
+  <component name="HttpConfigurable">
+    <option name="PAC_URL" value="set HTTP_PROXY=myserver:1981" />
+  </component>
+</application>
